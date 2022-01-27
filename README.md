@@ -1,5 +1,5 @@
 # Dropship Business App Database
-# Implemented with Python, Flask ORM, PostgreSQL
+# Implemented with Python, Flask, PostgreSQL
 
 A Dropship Business database design that utilizes Flask ORM to manage backend app development with Python.  
 API was tested through a client (e.g Insomnia), and relational database management was implemented via PostgreSQL.
