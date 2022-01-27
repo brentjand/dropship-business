@@ -1,4 +1,4 @@
-# Dropship Business App Database
+# Dropship Business Backend App
 # Implemented with Python, Flask, PostgreSQL
 
 A Dropship Business database design that utilizes Flask ORM to manage backend app development with Python.  
